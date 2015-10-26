@@ -1,0 +1,23 @@
+{
+  "name": "clojurescript-standalone",
+  "version": "1.7.145",
+  "authors": [
+    "Andy Nicholson <andrew@anicholson.net>"
+  ],
+  "description": "Simple bower wrapper around the standalone Clojurescript JAR",
+  "main": "cljs.jar",
+  "moduleType": [],
+  "keywords": [
+    "clojurescript",
+    "wrapper"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/anicholson/bower-clojurescript-standalone",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
